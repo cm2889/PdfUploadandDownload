@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810559283095",
+    "firebase_url": "https://pdfuploadanddownlad.firebaseio.com",
+    "project_id": "pdfuploadanddownlad",
+    "storage_bucket": "pdfuploadanddownlad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810559283095:android:bd5adbd919a2f916",
+        "android_client_info": {
+          "package_name": "lab1.sdmgap.edu.pdfuploadanddownlad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810559283095-e83ifrq51sbpvem1f5d9fqoj0cimt89h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lab1.sdmgap.edu.pdfuploadanddownlad",
+            "certificate_hash": "e433137bc992060ad702b524d034dd08039e38e3"
+          }
+        },
+        {
+          "client_id": "810559283095-o3i9vimv86bs2v8f15qo68u63261f539.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5pvDo_qjvPAeEAZqEZke7B_0WMHp2GU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810559283095-o3i9vimv86bs2v8f15qo68u63261f539.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
